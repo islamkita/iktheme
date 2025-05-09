@@ -42,7 +42,7 @@
 --title-hover-color:#ff1a75;
 --meta-color:#90a2aa;
 --text-color:#60757e;
---header-bg:linear-gradient(135deg,#ff1a75 0%,#7d2ae8 40%,#00c4cc 95%);
+--header-bg: transparent;/*linear-gradient(135deg,#ff1a75 0%,#7d2ae8 40%,#00c4cc 95%)*/
 --header-color:#ffffff;
 --header-hover-color:#f2e7f8;
 --submenu-bg:#ffffff;
