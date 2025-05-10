@@ -658,7 +658,7 @@ p.comments-message > em{color:#ff3f34;font-style:normal;margin:0 3px}
 .x43cf .sidebar .social-icons .external-link a:before,.x43cf .sidebar .social-icons .external-link span{color:var(--title-color)}
 .sidebar .social-icons a:hover{opacity:.9}
 .pbt-s .loader{height:180px}
-.side-items{display:grid;grid-template-columns:1fr;grid-gap:25px}
+.side-items{display:grid;grid-template-columns:1fr;grid-gap:10px}
 .side-items .post{display:flex;gap:14px}
 .side-items .post .entry-thumbnail{width:95px;height:65px}
 .side-items .post .entry-header{flex:1;gap:5px;align-self:center}
